@@ -11,7 +11,6 @@ A tool to extract rpc methods from assemblies using dnlib
 - [Usage](#usage)
 - [License](#license)
 
-- 
 ## Preview
 <p align="center">
   <img src="assets/preview.gif" alt="Preview" width="600" />
